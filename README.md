@@ -1,3 +1,5 @@
+# Code not yet comitted still under construction.
+
 # MultithreadedKafkaConsumer
 A multithreaded way on consuming kafka message.
 
